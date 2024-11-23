@@ -1,5 +1,4 @@
 👋 Hi, I'm safaa
-🌱 Aspiring coding student passionate about  web development
 🎓 Currently learning independently and passionate about building projects.
 💻 Open to collaborations and always seeking opportunities to grow!
 
